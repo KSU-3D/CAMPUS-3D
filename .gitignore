@@ -2,6 +2,26 @@
 # Editor generated #
 # ================ #
 *.swp
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Build/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.swp
+*.user
+*.unityproj
+*.booproj
 
 # ============ #
 # OS generated #
@@ -20,3 +40,5 @@ Thumbs.db
 # ============ #
 
 *.log #log files, for some plugins
+*.pyc #python bytecode cache, for some plugins.
+sysinfo.txt #Unity3D Generated File On Crash Reports
